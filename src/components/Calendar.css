@@ -1,0 +1,33 @@
+.calendar-table, .calendar-table td {
+    border: 1px solid rgb(189, 189, 189);
+    text-align: center;
+}
+
+.calendar-table th {
+    text-decoration: underline;
+}
+
+.calendar-table td {
+    padding-top: 0.5em;
+    padding-bottom: 0.5em;
+    padding-left: 0;
+    padding-right: 0;
+}
+
+.calendar-table {
+    padding: 1em;
+    width: 100%;
+    border-radius: 10px;
+    border-spacing: 0;
+}
+
+.event-month {
+    border-radius: 10px;
+    border: 1px solid lightblue;
+}
+
+.link {
+    text-decoration: none;
+    color: black;
+}
+

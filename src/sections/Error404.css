@@ -1,0 +1,10 @@
+.tagA{
+    text-decoration: none;
+    color: black;
+}
+
+.centrar {
+    display: flex;
+    flex-direction: column;
+    
+}

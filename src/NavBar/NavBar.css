@@ -1,0 +1,17 @@
+nav {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    text-align: center;
+    gap: 10%;
+}
+.NavLink {
+    border: 1px solid black;
+    text-decoration: none;
+    color: black;
+    padding: 5px;
+    border-radius: 20px;
+}
+
+.NavLink.active {
+    background-color: blue;
+}
